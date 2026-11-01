@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  iPlayra
+
+  Created by Shiv on 23/10/26.
+  
+*/
+
+"kOk" = "OK";
+"kCancel" = "キャンセル";
+"kDone" = "完了";
+"kVideo" = "ビデオ";
+"kMusic" = "音楽";
+"kEdit" = "編集";
+"kMe" = "マイページ";
+"kAllSongs" = "すべての曲";
+"kAlbum" = "アルバム";
+"kArtist" = "アーティスト";
+"kGenres" = "ジャンル";
+"kPlaylist" = "プレイリスト";
+"kiPlay" = "iPlay";
+"kNotFoundDataYet" = "データが見つかりません";
+"kRemoveAD" = "広告を削除";
+"kDate" = "日付";
+"kName" = "名前";
+"kSize" = "サイズ";
+"kDuration" = "再生時間";
+"kHistory" = "履歴";
+"kPlay" = "再生";
+"kShare" = "共有";
+"kInfo" = "情報";
+"kDelete" = "削除";
+"kFavorite" = "お気に入り";
+"kSongs" = "曲";
+"kCreatePlaylist" = "プレイリストを作成";
+"kPlaylistNameModify" = "プレイリスト名を変更";
+"kEnterPlaylistName" = "プレイリスト名を入力...";
+"kAddSongs" = "曲を追加";
+"kEditDetail" = "詳細を編集";
+"kDeletePlaylist" = "プレイリストを削除";
+"kSelected" = "選択済み";
+"kComingSoon" = "近日公開...";
+"kGeneral" = "一般";
+"kAudio" = "オーディオ";
+"kDownload" = "ダウンロード";
+"kSubscription" = "サブスクリプション";
+"kPrivacyPolicy" = "プライバシーポリシー";
+"kAbout" = "アプリについて";
+"kPlayingQueue" = "再生キュー";
+"kLanguage" = "言語";
+"kHistory" = "履歴";
+"kVideoPlayerControlsSettingsOptions" = "ビデオプレーヤーコントロール設定オプション";
+"kAudioPlayerControlsSettingsOptions" = "オーディオプレーヤーコントロール設定オプション";
+"kFileUrlAndStorage" = "ファイルURLとストレージ";
+"kSubscriptionDetails" = "サブスクリプションの詳細";
+"kAppDataPermissionsSafeAndSecure" = "アプリデータ、権限、安全・安心！";
+"kAppVersionAndCopyright" = "アプリのバージョンと著作権";
+"kMonthly" = "月額";
+"kYearly" = "年額";
+"kLifetime" = "永久";
+"kDay" = "日";
+"kMonth" = "月";
+"kinfinity" = "無限";
+"kPurchaseNow" = "今すぐ購入";
+"kRestore" = "復元";
+"kCreated" = "作成日";
+"kModified" = "更新日";
+"kLastOpened" = "最終閲覧日";
+"kDuration" = "再生時間";
+"kAppLanguages" = "アプリの言語";
+"kSettings" = "設定";
+"kRemoveAll" = "すべて削除";
+"kViewAll" = "すべて表示";
+"kContactUs" = "お問い合わせ";
+"kRateUs" = "評価する";
+"kTermsConditions" = "利用規約";

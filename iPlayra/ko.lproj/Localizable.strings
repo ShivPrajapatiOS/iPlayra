@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  iPlayra
+
+  Created by Shiv on 23/10/26.
+  
+*/
+
+"kOk" = "확인";
+"kCancel" = "취소";
+"kDone" = "완료";
+"kVideo" = "비디오";
+"kMusic" = "음악";
+"kEdit" = "편집";
+"kMe" = "나";
+"kAllSongs" = "모든 노래";
+"kAlbum" = "앨범";
+"kArtist" = "아티스트";
+"kGenres" = "장르";
+"kPlaylist" = "재생목록";
+"kiPlay" = "iPlay";
+"kNotFoundDataYet" = "데이터를 찾을 수 없습니다";
+"kRemoveAD" = "광고 제거";
+"kDate" = "날짜";
+"kName" = "이름";
+"kSize" = "크기";
+"kDuration" = "재생 시간";
+"kHistory" = "기록";
+"kPlay" = "재생";
+"kShare" = "공유";
+"kInfo" = "정보";
+"kDelete" = "삭제";
+"kFavorite" = "즐겨찾기";
+"kSongs" = "노래";
+"kCreatePlaylist" = "재생목록 만들기";
+"kPlaylistNameModify" = "재생목록 이름 수정";
+"kEnterPlaylistName" = "재생목록 이름 입력...";
+"kAddSongs" = "노래 추가";
+"kEditDetail" = "상세정보 편집";
+"kDeletePlaylist" = "재생목록 삭제";
+"kSelected" = "선택됨";
+"kComingSoon" = "곧 출시...";
+"kGeneral" = "일반";
+"kAudio" = "오디오";
+"kDownload" = "다운로드";
+"kSubscription" = "구독";
+"kPrivacyPolicy" = "개인정보 처리방침";
+"kAbout" = "정보";
+"kPlayingQueue" = "재생 대기열";
+"kLanguage" = "언어";
+"kHistory" = "기록";
+"kVideoPlayerControlsSettingsOptions" = "비디오 플레이어 컨트롤 설정 옵션";
+"kAudioPlayerControlsSettingsOptions" = "오디오 플레이어 컨트롤 설정 옵션";
+"kFileUrlAndStorage" = "파일 URL 및 저장소";
+"kSubscriptionDetails" = "구독 세부정보";
+"kAppDataPermissionsSafeAndSecure" = "앱 데이터, 권한, 안전하게 보호됨!";
+"kAppVersionAndCopyright" = "앱 버전 및 저작권";
+"kMonthly" = "월간";
+"kYearly" = "연간";
+"kLifetime" = "평생";
+"kDay" = "일";
+"kMonth" = "월";
+"kinfinity" = "무한";
+"kPurchaseNow" = "지금 구매";
+"kRestore" = "복원";
+"kCreated" = "생성됨";
+"kModified" = "수정됨";
+"kLastOpened" = "마지막으로 열림";
+"kDuration" = "재생 시간";
+"kAppLanguages" = "앱 언어";
+"kSettings" = "설정";
+"kRemoveAll" = "모두 제거";
+"kViewAll" = "모두 보기";
+"kContactUs" = "문의하기";
+"kRateUs" = "평가하기";
+"kTermsConditions" = "이용 약관";

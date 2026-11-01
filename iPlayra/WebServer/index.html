@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>iPlay Media Uploader</title>
+                <!-- Tailwind CSS CDN -->
+                <script src="https://cdn.tailwindcss.com"></script>
+                <style>
+                    /* Custom styles for the submit button animation */
+                    @keyframes pulse-once {
+                        0% { transform: scale(1); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); }
+                        50% { transform: scale(1.02); box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2); }
+                        100% { transform: scale(1); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); }
+                    }
+                    
+                    .animated-button:hover {
+                        animation: pulse-once 0.3s ease-in-out;
+                    }
+                    
+                    /* Styling the file input for better visual appeal */
+                    .file-input-wrapper input[type="file"] {
+                        /* Hide the default file input button */
+                        opacity: 0;
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        width: 100%;
+                        height: 100%;
+                        cursor: pointer;
+                    }
+                    
+                    /* Inter font setup */
+                    body { font-family: "Inter", sans-serif; }
+                </style>
+                <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+                    <link rel="icon" href="/ic_app" type="image/png">
+                        <link rel="apple-touch-icon" href="/ic_app">
+                            <meta name="theme-color" content="#FF4162">
+                            </head>
+    <body class="bg-gray-100 min-h-screen flex items-center justify-center p-4">
+        
+        <div class="w-full max-w-md bg-white rounded-xl shadow-2xl p-8 transform transition duration-500 hover:shadow-3xl">
+            <!-- App Logo Placeholder (Using a simple SVG icon for a media file) -->
+            <div class="flex flex-col items-center mb-6">
+                <!-- Icon color is now neutral grey by default -->
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-16 h-16 text-[#FF4162] mb-2" viewBox="0 0 24 24" fill="currentColor" stroke="none">
+                                    <!-- Red Rounded Rectangle (The main body of the logo) -->
+                                    <rect x="2" y="2" width="20" height="20" rx="4" ry="4"/>
+                                    <!-- White Play Triangle -->
+                                    <polygon fill="#FFFFFF" points="9 7 17 12 9 17"/>
+                                </svg>
+                <h1 class="text-3xl font-bold text-gray-800 tracking-tight">iPlay Media Saver</h1>
+                <p class="text-sm text-gray-500 mt-1">Upload Audio and Video Files</p>
+            </div>
+            
+            <!-- Upload Form -->
+            <form action="/upload" method="POST" enctype="multipart/form-data" class="space-y-6">
+                
+                <!-- File Input Field with Custom Styling -->
+                <div class="file-input-wrapper relative border-2 border-dashed border-gray-300 rounded-lg p-6 text-center hover:border-[#FF4162] transition duration-300">
+                    <div class="flex flex-col items-center w-full"> <!-- Added w-full here to maximize space -->
+                        <svg id="fileIcon" xmlns="http://www.w3.org/2000/svg" class="w-8 h-8 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 014 4v2m-5 4H9m0 0l-3-3m3 3l3-3" />
+                        </svg>
+                        <!-- Updated classes: Using 'break-words px-2' to allow wrapping onto multiple lines -->
+                        <span id="fileStatusText" class="mt-2 text-sm font-medium text-gray-600 break-words px-2">
+                            Select a file to upload
+                        </span>
+                        <span class="text-xs text-gray-400">
+                            (MP3, MP4, MOV, etc.)
+                        </span>
+                    </div>
+                    <!-- The required input field -->
+                    <input type="file" name="file" id="fileInput" accept="audio/*,video/*,.mkv" required>
+                </div>
+                
+                <!-- Animated Submit Button - COLOR UPDATED TO #FF4162, OPACITY SET TO 75% -->
+                <button type="submit"
+                    class="animated-button w-full bg-[#FF4162] text-white font-semibold py-3 px-4 rounded-lg shadow-md hover:bg-[#E63A58] focus:outline-none focus:ring-4 focus:ring-[#FF6680] focus:ring-opacity-50 transition duration-150 ease-in-out transform opacity-75"
+                    >
+                    Upload File
+                </button>
+                
+            </form>
+            
+            <p class="text-center text-xs text-gray-400 mt-6">
+            Your local server is securely handling the file upload.
+            </p>
+        </div>
+        
+        <script>
+            document.getElementById('fileInput').addEventListener('change', function(event) {
+                const fileStatusText = document.getElementById('fileStatusText');
+                const fileIcon = document.getElementById('fileIcon');
+                const file = event.target.files[0];
+                
+                // Custom hex color class
+                const selectedColorClass = 'text-[#FF4162]';
+                
+                if (file) {
+                    // Display the file name
+                    fileStatusText.textContent = file.name;
+                    // Change the text color to the custom color
+                    fileStatusText.classList.add(selectedColorClass, 'font-semibold');
+                    fileStatusText.classList.remove('text-gray-600', 'font-medium');
+                    
+                    // Change icon color to the custom color
+                    fileIcon.classList.remove('text-gray-400');
+                    fileIcon.classList.add(selectedColorClass);
+                    
+                } else {
+                    // Reset to default
+                    fileStatusText.textContent = 'Select a file to upload';
+                    fileStatusText.classList.add('text-gray-600', 'font-medium');
+                    fileStatusText.classList.remove(selectedColorClass, 'font-semibold');
+                    
+                    fileIcon.classList.add('text-gray-400');
+                    fileIcon.classList.remove(selectedColorClass);
+                }
+            });
+        </script>
+        
+    </body>
+</html>

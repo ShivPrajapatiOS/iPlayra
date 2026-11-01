@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  iPlayra
+
+  Created by Shiv on 23/10/26.
+  
+*/
+
+"kOk" = "ठीक है";
+"kCancel" = "रद्द करें";
+"kDone" = "हो गया";
+"kVideo" = "वीडियो";
+"kMusic" = "संगीत";
+"kEdit" = "संपादित";
+"kMe" = "मैं";
+"kAllSongs" = "सभी गाने";
+"kAlbum" = "एल्बम";
+"kArtist" = "कलाकार";
+"kGenres" = "श्रेणियाँ";
+"kPlaylist" = "प्लेलिस्ट";
+"kiPlay" = "आईप्ले";
+"kNotFoundDataYet" = "कोई डेटा नहीं मिला";
+"kRemoveAD" = "विज्ञापन हटाएँ";
+"kDate" = "तिथि";
+"kName" = "नाम";
+"kSize" = "आकार";
+"kDuration" = "अवधि";
+"kHistory" = "इतिहास";
+"kPlay" = "चलाएँ";
+"kShare" = "साझा करें";
+"kInfo" = "जानकारी";
+"kDelete" = "हटाएँ";
+"kFavorite" = "पसंदीदा";
+"kSongs" = "गाने";
+"kCreatePlaylist" = "नई प्लेलिस्ट बनाएँ";
+"kPlaylistNameModify" = "प्लेलिस्ट नाम संशोधित करें";
+"kEnterPlaylistName" = "प्लेलिस्ट का नाम दर्ज करें...";
+"kAddSongs" = "गाने जोड़ें";
+"kEditDetail" = "विवरण संपादित करें";
+"kDeletePlaylist" = "प्लेलिस्ट हटाएँ";
+"kSelected" = "चयनित";
+"kComingSoon" = "जल्द आ रहा है...";
+"kGeneral" = "सामान्य";
+"kAudio" = "ऑडियो";
+"kDownload" = "डाउनलोड";
+"kSubscription" = "सदस्यता";
+"kPrivacyPolicy" = "गोपनीयता नीति";
+"kAbout" = "परिचय";
+"kPlayingQueue" = "चल रही कतार";
+"kLanguage" = "भाषा";
+"kHistory" = "इतिहास";
+"kVideoPlayerControlsSettingsOptions" = "वीडियो प्लेयर कंट्रोल्स सेटिंग्स विकल्प";
+"kAudioPlayerControlsSettingsOptions" = "ऑडियो प्लेयर कंट्रोल्स सेटिंग्स विकल्प";
+"kFileUrlAndStorage" = "फ़ाइल URL और संग्रहण";
+"kSubscriptionDetails" = "सदस्यता विवरण";
+"kAppDataPermissionsSafeAndSecure" = "ऐप डेटा, अनुमतियाँ, सुरक्षित और सुरक्षित!";
+"kAppVersionAndCopyright" = "ऐप संस्करण और अधिकार";
+"kMonthly" = "मासिक";
+"kYearly" = "वार्षिक";
+"kLifetime" = "आजीवन";
+"kDay" = "दिन";
+"kMonth" = "महीना";
+"kinfinity" = "अनंत";
+"kPurchaseNow" = "अब खरीदें";
+"kRestore" = "पुनर्स्थापित करें";
+// New
+"kCreated" = "सृजित";
+"kModified" = "संशोधित";
+"kLastOpened" = "अंतिम बार खोला गया";
+"kDuration" = "अवधि";
+"kAppLanguages" = "ऐप भाषाएँ";
+"kSettings" = "सेटिंग्स";
+"kRemoveAll" = "सभी हटाएँ";
+"kViewAll" = "सभी देखें";
+"kContactUs" = "संपर्क करें";
+"kRateUs" = "हमें रेट करें";
+"kTermsConditions" = "नियम और शर्तें";

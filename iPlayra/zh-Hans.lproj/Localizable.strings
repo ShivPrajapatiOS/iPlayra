@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  iPlayra
+
+  Created by Shiv on 23/10/26.
+  
+*/
+
+"kOk" = "确定";
+"kCancel" = "取消";
+"kDone" = "完成";
+"kVideo" = "视频";
+"kMusic" = "音乐";
+"kEdit" = "编辑";
+"kMe" = "我的";
+"kAllSongs" = "全部歌曲";
+"kAlbum" = "专辑";
+"kArtist" = "艺人";
+"kGenres" = "类型";
+"kPlaylist" = "播放列表";
+"kiPlay" = "iPlay";
+"kNotFoundDataYet" = "暂无数据";
+"kRemoveAD" = "移除广告";
+"kDate" = "日期";
+"kName" = "名称";
+"kSize" = "大小";
+"kDuration" = "时长";
+"kHistory" = "历史";
+"kPlay" = "播放";
+"kShare" = "分享";
+"kInfo" = "信息";
+"kDelete" = "删除";
+"kFavorite" = "收藏";
+"kSongs" = "歌曲";
+"kCreatePlaylist" = "创建播放列表";
+"kPlaylistNameModify" = "修改播放列表名称";
+"kEnterPlaylistName" = "请输入播放列表名称…";
+"kAddSongs" = "添加歌曲";
+"kEditDetail" = "编辑详情";
+"kDeletePlaylist" = "删除播放列表";
+"kSelected" = "已选";
+"kComingSoon" = "敬请期待…";
+"kGeneral" = "常规";
+"kAudio" = "音频";
+"kDownload" = "下载";
+"kSubscription" = "订阅";
+"kPrivacyPolicy" = "隐私政策";
+"kAbout" = "关于";
+"kPlayingQueue" = "正在播放队列";
+"kLanguage" = "语言";
+"kHistory" = "历史";
+"kVideoPlayerControlsSettingsOptions" = "视频播放器控制设置选项";
+"kAudioPlayerControlsSettingsOptions" = "音频播放器控制设置选项";
+"kFileUrlAndStorage" = "文件URL和存储";
+"kSubscriptionDetails" = "订阅详情";
+"kAppDataPermissionsSafeAndSecure" = "应用数据，权限，安全可靠！";
+"kAppVersionAndCopyright" = "应用版本和版权";
+"kMonthly" = "每月";
+"kYearly" = "每年";
+"kLifetime" = "终身";
+"kDay" = "天";
+"kMonth" = "月";
+"kinfinity" = "无限";
+"kPurchaseNow" = "立即购买";
+"kRestore" = "恢复";
+"kCreated" = "创建时间";
+"kModified" = "修改时间";
+"kLastOpened" = "上次打开";
+"kDuration" = "时长";
+"kAppLanguages" = "应用语言";
+"kSettings" = "设置";
+"kRemoveAll" = "全部移除";
+"kViewAll" = "查看全部";
+"kContactUs" = "联系我们";
+"kRateUs" = "为我们评分";
+"kTermsConditions" = "条款和条件";

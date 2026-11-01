@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  iPlayra
+
+  Created by Shiv on 23/10/26.
+  
+*/
+
+"kOk" = "બરાબર";
+"kCancel" = "રદ કરો";
+"kDone" = "પૂર્ણ થયું";
+"kVideo" = "વીડિઓ";
+"kMusic" = "સંગીત";
+"kEdit" = "સંપાદિત કરો";
+"kMe" = "હું";
+"kAllSongs" = "બધા ગીતો";
+"kAlbum" = "આલ્બમ";
+"kArtist" = "કલાકાર";
+"kGenres" = "શૈલીઓ";
+"kPlaylist" = "પ્લેલિસ્ટ";
+"kiPlay" = "iPlay";
+"kNotFoundDataYet" = "હજુ સુધી કોઈ ડેટા મળ્યો નથી";
+"kRemoveAD" = "જાહેરાતો દૂર કરો";
+"kDate" = "તારીખ";
+"kName" = "નામ";
+"kSize" = "માપ";
+"kDuration" = "અવધિ";
+"kHistory" = "ઇતિહાસ";
+"kPlay" = "ચાલુ કરો";
+"kShare" = "શેર કરો";
+"kInfo" = "માહિતી";
+"kDelete" = "દૂર કરો";
+"kFavorite" = "પ્રિય";
+"kSongs" = "ગીતો";
+"kCreatePlaylist" = "નવી પ્લેલિસ્ટ બનાવો";
+"kPlaylistNameModify" = "પ્લેલિસ્ટનું નામ બદલો";
+"kEnterPlaylistName" = "પ્લેલિસ્ટનું નામ દાખલ કરો...";
+"kAddSongs" = "ગીતો ઉમેરો";
+"kEditDetail" = "વિગત સંપાદિત કરો";
+"kDeletePlaylist" = "પ્લેલિસ્ટ દૂર કરો";
+"kSelected" = "પસંદ કર્યું";
+"kComingSoon" = "આવતી કાલે...";
+"kGeneral" = "સામાન્ય";
+"kAudio" = "ઑડિઓ";
+"kDownload" = "ડાઉનલોડ";
+"kSubscription" = "સબસ્ક્રિપ્શન";
+"kPrivacyPolicy" = "ગોપનીયતા નીતિ";
+"kAbout" = "વિશે";
+"kPlayingQueue" = "ચાલતી કતાર";
+"kLanguage" = "ભાષા";
+"kHistory" = "ઇતિહાસ";
+"kVideoPlayerControlsSettingsOptions" = "વિડિયો પ્લેયર કંટ્રોલ્સ સેટિંગ્સ વિકલ્પો";
+"kAudioPlayerControlsSettingsOptions" = "ઓડિઓ પ્લેયર કંટ્રોલ્સ સેટિંગ્સ વિકલ્પો";
+"kFileUrlAndStorage" = "ફાઇલ URL અને સ્ટોરેજ";
+"kSubscriptionDetails" = "સબ્સ્ક્રિપ્શન વિગતો";
+"kAppDataPermissionsSafeAndSecure" = "એપ માહિતી, પરવાનગીઓ, સુરક્ષિત!";
+"kAppVersionAndCopyright" = "એપ સંસ્કરણ અને કૉપિરાઇટ";
+"kMonthly" = "માસિક";
+"kYearly" = "વાર્ષિક";
+"kLifetime" = "આજીવન";
+"kDay" = "દિવસ";
+"kMonth" = "મહિનો";
+"kinfinity" = "અનંત";
+"kPurchaseNow" = "હવે ખરીદી કરો";
+"kRestore" = "પુનઃપ્રાપ્ત કરો";
+"kCreated" = "બનાવવામાં આવ્યું";
+"kModified" = "સુધારવામાં આવ્યું";
+"kLastOpened" = "છેલ્લે ખોલ્યું";
+"kDuration" = "અવધિ";
+"kAppLanguages" = "એપ્લિકેશન ભાષાઓ";
+"kSettings" = "સેટિંગ્સ";
+"kRemoveAll" = "બધું દૂર કરો";
+"kViewAll" = "બધું જુઓ";
+"kContactUs" = "અમારો સંપર્ક કરો";
+"kRateUs" = "અમને રેટ કરો";
+"kTermsConditions" = "નિયમો અને શરતો";

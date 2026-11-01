@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #000000;  /* PURE BLACK BACKGROUND */
+      min-height: 100vh;
+      padding: 40px 20px;
+      color: #e0e0e0;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: rgba(20, 20, 20, 0.95); /* Dark card for contrast */
+      border-radius: 18px;
+      padding: 40px;
+      box-shadow: 0 15px 35px rgba(0, 0, 0, 0.6);
+      border: 1px solid #333;
+    }
+
+    .icon {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .icon img {
+      width: 100px;
+      height: 100px;
+      margin: 0 15px;
+      transition: transform 0.3s ease;
+    }
+
+    .icon img:hover {
+      transform: scale(1.2);
+    }
+
+    h1 {
+      text-align: center;
+      color: #FF4162;
+      margin-bottom: 10px;
+      font-size: 2.5rem;
+      font-weight: 700;
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    }
+
+    p em {
+      display: block;
+      text-align: center;
+      color: #aaaaaa;
+      font-size: 0.95rem;
+      margin-bottom: 30px;
+    }
+
+    h3 {
+      color: #FF4162;
+      opacity: 0.75;
+      margin: 30px 0 15px;
+      font-size: 1.5rem;
+      border-bottom: 2px solid #444;
+      padding-bottom: 8px;
+    }
+
+    p {
+      line-height: 1.7;
+      color: #cccccc;
+      margin-bottom: 16px;
+      text-align: justify;
+    }
+
+    p b {
+      color: #ffffff;
+      font-weight: 600;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      padding-top: 20px;
+      color: #777777;
+      font-size: 0.9rem;
+      border-top: 1px solid #333;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 25px;
+        border-radius: 15px;
+      }
+      h1 {
+        font-size: 2rem;
+      }
+      .icon img {
+        width: 50px;
+        height: 50px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="icon">
+      <img src="ic_app.png" alt="iPlay" style="width: 100px; height: 100px;">
+    </div>
+    <h1>Privacy Policy</h1>
+    <p><em>Last updated: <span id="last-updated"></span></em></p>
+
+    <h3>1. Data Collection</h3>
+    <p>We do not collect, store, or share any personal information. The app only accesses media files that are already saved on your device.</p>
+
+    <h3>2. Media Access</h3>
+    <p>The app requests permission to access your device storage and media library only for importing and playing your music and video files. All files remain stored locally on your device.</p>
+
+    <h3>4. Third-Party Services</h3>
+    <p>No ads, no analytics, and no tracking services are used in this app.</p>
+
+    <h3>5. Children’s Privacy</h3>
+    <p>The app is safe for all ages and does not collect any personal data.</p>
+
+    <h3>6. Changes</h3>
+    <p>We may update this Privacy Policy from time to time. Updates will be shown inside the app.</p>
+
+    <h3>7. Contact Us</h3>
+    <p>If you have questions, contact us at: <br>
+      <b>support@iplay.com</b>
+    </p>
+
+    <footer>
+      &copy; <span id="copyright-year"></span> iPlay. All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
+
+<script>
+  document.getElementById('copyright-year').textContent = new Date().getFullYear();
+  document.addEventListener("DOMContentLoaded", function() {
+      const options = {
+        day: 'numeric',
+        month: 'long',
+        year: 'numeric'
+      };
+      const today = new Date();
+      const formattedDate = today.toLocaleDateString('en-GB', options);
+      document.getElementById('last-updated').textContent = formattedDate;
+    });
+</script>

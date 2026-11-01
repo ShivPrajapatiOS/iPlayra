@@ -1,0 +1,79 @@
+/* 
+  Localizable.strings
+  iPlayra
+
+  Created by Shiv on 23/10/26.
+  
+*/
+
+"kOk" = "Ok";
+"kCancel" = "Cancel";
+"kDone" = "Done";
+"kVideo" = "Video";
+"kMusic" = "Music";
+"kEdit" = "Edit";
+"kMe" = "Me";
+"kAllSongs" = "All Songs";
+"kAlbum" = "Album";
+"kArtist" = "Artist";
+"kGenres" = "Genres";
+"kPlaylist" = "Playlist";
+"kiPlay" = "iPlay";
+"kNotFoundDataYet" = "Not found data yet";
+"kRemoveAD" = "Remove AD";
+"kDate" = "Date";
+"kName" = "Name";
+"kSize" = "Size";
+"kDuration" = "Duration";
+"kHistory" = "History";
+"kPlay" = "Play";
+"kShare" = "Share";
+"kInfo" = "Info";
+"kDelete" = "Delete";
+"kPlaylist" = "Playlist";
+"kFavorite" = "Favorite";
+"kSongs" = "Songs";
+"kCreatePlaylist" = "Create Playlist";
+"kPlaylistNameModify" = "Playlist name modify";
+"kEnterPlaylistName" = "Enter playlist name...";
+"kAddSongs" = "Add songs";
+"kEditDetail" = "Edit detail";
+"kDeletePlaylist" = "Delete playlist";
+"kSelected" = "Selected";
+"kComingSoon" = "Coming Soon...";
+"kGeneral" = "General";
+"kAudio" = "Audio";
+"kDownload" = "Download";
+"kSubscription" = "Subscription";
+"kPrivacyPolicy" = "Privacy Policy";
+"kAbout" = "About";
+"kPlayingQueue" = "Playing Queue";
+"kLanguage" = "Language";
+"kHistory" = "History";
+"kVideoPlayerControlsSettingsOptions" = "Video player controls settings options";
+"kAudioPlayerControlsSettingsOptions" = "Audio player controls settings options";
+"kFileUrlAndStorage" = "File URL and storage";
+"kSubscriptionDetails" = "Subscription details";
+"kAppDataPermissionsSafeAndSecure" = "App Data, Permissions, Safe & Secure!";
+"kAppVersionAndCopyright" = "App version and copyright";
+"kMonthly" = "Monthly";
+"kYearly" = "Yearly";
+"kLifetime" = "Lifetime";
+"kDay" = "Day";
+"kMonth" = "Month";
+"kinfinity" = "Infinity";
+"kPurchaseNow" = "Purchase Now";
+"kRestore" = "Restore";
+"kCreated" = "Created";
+"kModified" = "Modified";
+"kLastOpened" = "Last Opened";
+"kDuration" = "Duration";
+"kAppLanguages" = "App Languages";
+"kSettings" = "Settings";
+"kRemoveAll" = "Remove All";
+"kViewAll" = "View all";
+
+
+"kContactUs" = "Contact Us";
+"kRateUs" = "Rate Us";
+"kTermsConditions" = "Terms and Conditions";

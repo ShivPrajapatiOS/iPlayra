@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  iPlayra
+
+  Created by Shiv on 23/10/26.
+  
+*/
+
+"kOk" = "Ok";
+"kCancel" = "Annuler";
+"kDone" = "Terminé";
+"kVideo" = "Vidéo";
+"kMusic" = "Musique";
+"kEdit" = "Modifier";
+"kMe" = "Moi";
+"kAllSongs" = "Toutes les chansons";
+"kAlbum" = "Album";
+"kArtist" = "Artiste";
+"kGenres" = "Genres";
+"kPlaylist" = "Liste de lecture";
+"kiPlay" = "iPlay";
+"kNotFoundDataYet" = "Aucune donnée trouvée pour l’instant";
+"kRemoveAD" = "Supprimer la publicité";
+"kDate" = "Date";
+"kName" = "Nom";
+"kSize" = "Taille";
+"kDuration" = "Durée";
+"kHistory" = "Historique";
+"kPlay" = "Lire";
+"kShare" = "Partager";
+"kInfo" = "Infos";
+"kDelete" = "Supprimer";
+"kFavorite" = "Favori";
+"kSongs" = "Chansons";
+"kCreatePlaylist" = "Créer une liste de lecture";
+"kPlaylistNameModify" = "Modifier le nom de la liste";
+"kEnterPlaylistName" = "Entrez le nom de la liste...";
+"kAddSongs" = "Ajouter des chansons";
+"kEditDetail" = "Modifier le détail";
+"kDeletePlaylist" = "Supprimer la liste de lecture";
+"kSelected" = "Sélectionné";
+"kComingSoon" = "Bientôt disponible...";
+"kGeneral" = "Général";
+"kAudio" = "Audio";
+"kDownload" = "Télécharger";
+"kSubscription" = "Abonnement";
+"kPrivacyPolicy" = "Politique de confidentialité";
+"kAbout" = "À propos";
+"kPlayingQueue" = "File d’attente de lecture";
+"kLanguage" = "Langue";
+"kHistory" = "historique";
+"kVideoPlayerControlsSettingsOptions" = "Options de réglage du lecteur vidéo";
+"kAudioPlayerControlsSettingsOptions" = "Options de réglage du lecteur audio";
+"kFileUrlAndStorage" = "URL de fichier et stockage";
+"kSubscriptionDetails" = "Détails de l’abonnement";
+"kAppDataPermissionsSafeAndSecure" = "Données d’application, autorisations, sûres et sécurisées !";
+"kAppVersionAndCopyright" = "Version de l’application et droits d’auteur";
+"kMonthly" = "Mensuel";
+"kYearly" = "Annuel";
+"kLifetime" = "À vie";
+"kDay" = "Jour";
+"kMonth" = "Mois";
+"kinfinity" = "Infini";
+"kPurchaseNow" = "Acheter maintenant";
+"kRestore" = "Restaurer";
+"kCreated" = "Créé";
+"kModified" = "Modifié";
+"kLastOpened" = "Dernière ouverture";
+"kDuration" = "Durée";
+"kAppLanguages" = "Langues de l’application";
+"kSettings" = "Réglages";
+"kRemoveAll" = "Tout supprimer";
+"kViewAll" = "Tout voir";
+"kContactUs" = "Contactez-nous";
+"kRateUs" = "Notez-nous";
+"kTermsConditions" = "Conditions générales";

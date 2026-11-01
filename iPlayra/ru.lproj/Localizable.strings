@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  iPlayra
+
+  Created by Shiv on 23/10/26.
+  
+*/
+
+"kOk" = "Ок";
+"kCancel" = "Отмена";
+"kDone" = "Готово";
+"kVideo" = "Видео";
+"kMusic" = "Музыка";
+"kEdit" = "Редактировать";
+"kMe" = "Я";
+"kAllSongs" = "Все песни";
+"kAlbum" = "Альбом";
+"kArtist" = "Артист";
+"kGenres" = "Жанры";
+"kPlaylist" = "Плейлист";
+"kiPlay" = "iPlay";
+"kNotFoundDataYet" = "Данные не найдены";
+"kRemoveAD" = "Удалить рекламу";
+"kDate" = "Дата";
+"kName" = "Имя";
+"kSize" = "Размер";
+"kDuration" = "Длительность";
+"kHistory" = "История";
+"kPlay" = "Воспроизвести";
+"kShare" = "Поделиться";
+"kInfo" = "Информация";
+"kDelete" = "Удалить";
+"kFavorite" = "Избранное";
+"kSongs" = "Песни";
+"kCreatePlaylist" = "Создать плейлист";
+"kPlaylistNameModify" = "Изменить имя плейлиста";
+"kEnterPlaylistName" = "Введите имя плейлиста...";
+"kAddSongs" = "Добавить песни";
+"kEditDetail" = "Редактировать детали";
+"kDeletePlaylist" = "Удалить плейлист";
+"kSelected" = "Выбрано";
+"kComingSoon" = "Скоро будет...";
+"kGeneral" = "Общие";
+"kAudio" = "Аудио";
+"kDownload" = "Загрузить";
+"kSubscription" = "Подписка";
+"kPrivacyPolicy" = "Политика конфиденциальности";
+"kAbout" = "О приложении";
+"kPlayingQueue" = "Очередь воспроизведения";
+"kLanguage" = "Язык";
+"kHistory" = "история";
+"kVideoPlayerControlsSettingsOptions" = "Настройки управления видеоплеером";
+"kAudioPlayerControlsSettingsOptions" = "Настройки управления аудиоплеером";
+"kFileUrlAndStorage" = "URL файла и хранилище";
+"kSubscriptionDetails" = "Детали подписки";
+"kAppDataPermissionsSafeAndSecure" = "Данные приложения, разрешения, безопасно и надёжно!";
+"kAppVersionAndCopyright" = "Версия приложения и авторские права";
+"kMonthly" = "Ежемесячно";
+"kYearly" = "Ежегодно";
+"kLifetime" = "Пожизненно";
+"kDay" = "День";
+"kMonth" = "Месяц";
+"kinfinity" = "Бесконечно";
+"kPurchaseNow" = "Купить сейчас";
+"kRestore" = "Восстановить";
+"kCreated" = "Создано";
+"kModified" = "Изменено";
+"kLastOpened" = "Последнее открытие";
+"kDuration" = "Длительность";
+"kAppLanguages" = "Языки приложения";
+"kSettings" = "Настройки";
+"kRemoveAll" = "Удалить все";
+"kViewAll" = "Показать все";
+"kContactUs" = "Связаться с нами";
+"kRateUs" = "Оцените нас";
+"kTermsConditions" = "Условия и положения";

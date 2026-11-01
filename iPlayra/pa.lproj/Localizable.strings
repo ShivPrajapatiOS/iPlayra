@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  iPlayra
+
+  Created by Shiv on 23/10/26.
+  
+*/
+
+"kOk" = "ਠੀਕ ਹੈ";
+"kCancel" = "ਰੱਦ ਕਰੋ";
+"kDone" = "ਮੁਕੰਮਲ";
+"kVideo" = "ਵੀਡੀਓ";
+"kMusic" = "ਸੰਗੀਤ";
+"kEdit" = "ਸੋਧੋ";
+"kMe" = "ਮੈਂ";
+"kAllSongs" = "ਸਾਰੇ ਗੀਤ";
+"kAlbum" = "ਐਲਬਮ";
+"kArtist" = "ਕਲਾਕਾਰ";
+"kGenres" = "ਸ਼ੈਲੀਆਂ";
+"kPlaylist" = "ਪਲੇਲਿਸਟ";
+"kiPlay" = "iPlay";
+"kNotFoundDataYet" = "ਹਾਲੇ ਕੋਈ ਡਾਟਾ ਨਹੀਂ ਮਿਲਿਆ";
+"kRemoveAD" = "ਵਿਗਿਆਪਨ ਹਟਾਓ";
+"kDate" = "ਤਾਰੀਖ";
+"kName" = "ਨਾਂ";
+"kSize" = "ਸਾਈਜ਼";
+"kDuration" = "ਅਵਧੀ";
+"kHistory" = "ਇਤਿਹਾਸ";
+"kPlay" = "ਚਲਾਓ";
+"kShare" = "ਸਾਂਝਾ ਕਰੋ";
+"kInfo" = "ਜਾਣਕਾਰੀ";
+"kDelete" = "ਹਟਾਓ";
+"kFavorite" = "ਪਸੰਦੀਦਾ";
+"kSongs" = "ਗੀਤ";
+"kCreatePlaylist" = "ਨਵੀਂ ਪਲੇਲਿਸਟ ਬਣਾਓ";
+"kPlaylistNameModify" = "ਪਲੇਲਿਸਟ ਨਾਂ ਸੋਧੋ";
+"kEnterPlaylistName" = "ਪਲੇਲਿਸਟ ਦਾ ਨਾਂ ਦਿਓ...";
+"kAddSongs" = "ਗੀਤ ਸ਼ਾਮਲ ਕਰੋ";
+"kEditDetail" = "ਵੇਰਵਾ ਸੋਧੋ";
+"kDeletePlaylist" = "ਪਲੇਲਿਸਟ ਹਟਾਓ";
+"kSelected" = "ਚੁਣਿਆ ਗਿਆ";
+"kComingSoon" = "ਜਲਦੀ ਆ ਰਿਹਾ ਹੈ...";
+"kGeneral" = "ਆਮ";
+"kAudio" = "ਆਡੀਓ";
+"kDownload" = "ਡਾਊਨਲੋਡ";
+"kSubscription" = "ਸਬਸਕ੍ਰਿਪਸ਼ਨ";
+"kPrivacyPolicy" = "ਪਰਦਾ ਨੀਤੀ";
+"kAbout" = "ਬਾਰੇ";
+"kPlayingQueue" = "ਚਲ ਰਹੀ ਕਤਾਰ";
+"kLanguageHistory" = "ਭਾਸ਼ਾ";
+"kHistory" = "ਇਤਿਹਾਸ";
+"kVideoPlayerControlsSettingsOptions" = "ਵੀਡੀਓ ਪਲੇਅਰ ਕੰਟਰੋਲ ਸੈਟਿੰਗ ਵਿਕਲਪ";
+"kAudioPlayerControlsSettingsOptions" = "ਆਡੀਓ ਪਲੇਅਰ ਕੰਟਰੋਲ ਸੈਟਿੰਗ ਵਿਕਲਪ";
+"kFileUrlAndStorage" = "ਫਾਇਲ URL ਅਤੇ ਸਟੋਰੇਜ";
+"kSubscriptionDetails" = "ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਵੇਰਵੇ";
+"kAppDataPermissionsSafeAndSecure" = "ਐਪ ਡਾਟਾ, ਪਰਵਾਨਗੀਆਂ, ਸੁਰੱਖਿਅਤ!";
+"kAppVersionAndCopyright" = "ਐਪ ਵਰਜਨ ਅਤੇ ਕਾਪੀਰਾਈਟ";
+"kMonthly" = "ਮਾਸਿਕ";
+"kYearly" = "ਸਾਲਾਨਾ";
+"kLifetime" = "ਆਜੀਵਨ";
+"kDay" = "ਦਿਨ";
+"kMonth" = "ਮਹੀਨਾ";
+"kinfinity" = "ਅਨੰਤ";
+"kPurchaseNow" = "ਹੁਣ ਖਰੀਦੋ";
+"kRestore" = "ਮੁੜ ਪ੍ਰਾਪਤ ਕਰੋ";
+"kCreated" = "ਬਣਾਇਆ ਗਿਆ";
+"kModified" = "ਸੋਧਿਆ ਗਿਆ";
+"kLastOpened" = "ਆਖਰੀ ਵਾਰ ਖੋਲ੍ਹਿਆ";
+"kDuration" = "ਅਵਧੀ";
+"kAppLanguages" = "ਐਪ ਭਾਸ਼ਾਵਾਂ";
+"kSettings" = "ਸੈਟਿੰਗਜ਼";
+"kRemoveAll" = "ਸਭ ਹਟਾਓ";
+"kViewAll" = "ਸਭ ਵੇਖੋ";
+"kContactUs" = "ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ";
+"kRateUs" = "ਸਾਨੂੰ ਰੇਟ ਕਰੋ";
+"kTermsConditions" = "ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ";

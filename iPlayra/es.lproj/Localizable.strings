@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  iPlayra
+
+  Created by Shiv on 23/10/26.
+  
+*/
+
+"kOk" = "Aceptar";
+"kCancel" = "Cancelar";
+"kDone" = "Hecho";
+"kVideo" = "Vídeo";
+"kMusic" = "Música";
+"kEdit" = "Editar";
+"kMe" = "Yo";
+"kAllSongs" = "Todas las canciones";
+"kAlbum" = "Álbum";
+"kArtist" = "Artista";
+"kGenres" = "Géneros";
+"kPlaylist" = "Lista de reproducción";
+"kiPlay" = "iPlay";
+"kNotFoundDataYet" = "Datos no encontrados";
+"kRemoveAD" = "Quitar anuncios";
+"kDate" = "Fecha";
+"kName" = "Nombre";
+"kSize" = "Tamaño";
+"kDuration" = "Duración";
+"kHistory" = "Historial";
+"kPlay" = "Reproducir";
+"kShare" = "Compartir";
+"kInfo" = "Información";
+"kDelete" = "Eliminar";
+"kFavorite" = "Favoritos";
+"kSongs" = "Canciones";
+"kCreatePlaylist" = "Crear lista de reproducción";
+"kPlaylistNameModify" = "Modificar nombre de la lista";
+"kEnterPlaylistName" = "Ingrese el nombre de la lista...";
+"kAddSongs" = "Agregar canciones";
+"kEditDetail" = "Editar detalle";
+"kDeletePlaylist" = "Eliminar lista de reproducción";
+"kSelected" = "Seleccionado";
+"kComingSoon" = "Próximamente...";
+"kGeneral" = "General";
+"kAudio" = "Audio";
+"kDownload" = "Descargar";
+"kSubscription" = "Suscripción";
+"kPrivacyPolicy" = "Política de privacidad";
+"kAbout" = "Acerca de";
+"kPlayingQueue" = "Cola de reproducción";
+"kLanguage" = "Idioma";
+"kHistory" = "historial";
+"kVideoPlayerControlsSettingsOptions" = "Opciones de configuración del reproductor de video";
+"kAudioPlayerControlsSettingsOptions" = "Opciones de configuración del reproductor de audio";
+"kFileUrlAndStorage" = "URL de archivo y almacenamiento";
+"kSubscriptionDetails" = "Detalles de la suscripción";
+"kAppDataPermissionsSafeAndSecure" = "¡Datos de la app, permisos, seguro y protegido!";
+"kAppVersionAndCopyright" = "Versión de la app y derechos de autor";
+"kMonthly" = "Mensual";
+"kYearly" = "Anual";
+"kLifetime" = "De por vida";
+"kDay" = "Día";
+"kMonth" = "Mes";
+"kinfinity" = "Infinito";
+"kPurchaseNow" = "Comprar ahora";
+"kRestore" = "Restaurar";
+"kCreated" = "Creado";
+"kModified" = "Modificado";
+"kLastOpened" = "Última apertura";
+"kDuration" = "Duración";
+"kAppLanguages" = "Idiomas de la app";
+"kSettings" = "Configuración";
+"kRemoveAll" = "Eliminar todo";
+"kViewAll" = "Ver todo";
+"kContactUs" = "Contáctanos";
+"kRateUs" = "Califícanos";
+"kTermsConditions" = "Términos y condiciones";
+
